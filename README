@@ -1,3 +1,12 @@
+NOTE: Actual source code is always located in a "scripting" folder. For
+example, "./addons/amxmodx/scripting"
+
+Root folders:
+"base" - This contains all base plugins that are built into Apollo RP's main
+package.
+"extra" - All plugins I wrote over time to add additional functionality but
+which I didn't feel were suitable to be part of the base package.
+
 Apollo RP is a plugin set for AMX Mod X. It was designed to be modular, easy
 to use, fast, efficient and easy to expand upon. It features many design
 improvements to overcome problems in Harbu RP, which it was based on
